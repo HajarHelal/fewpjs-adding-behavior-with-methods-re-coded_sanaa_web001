@@ -5,9 +5,7 @@ class Cat {
     this.sex = sex
   }
 }
-cat.speak(){
-  return name."says meow!" 
-}
+
 class Dog {
   constructor(name, sex) {
     this.name = name
